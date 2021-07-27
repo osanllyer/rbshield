@@ -15,7 +15,7 @@ class Shield(object):
     key_paltform = 'xy-platform-info'
     key_shield = 'shield'
     
-    url_shield = 'http://localhost:8080/shield?token=%s'
+    url_shield = 'http://localhost:8088/shield?token=%s'
     
     def __init__(self):
       pass  
