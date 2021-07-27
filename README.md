@@ -7,7 +7,8 @@
 ## 参数说明：
 
 fid, hmac, deviceid, finger 可以从自己的手机上dump出来，也可以通过fiddler， charles等工具获取查看
-如果需要更多的deviceid，可以联系管理员
+
+如果需要更多的deviceid，可以联系开发人员
 
 url 是需要获取的url，后面一般需要拼接xy_common_params这个参数
 xy_common_params, xy_platform参考charles的请求发送的参数即可。
